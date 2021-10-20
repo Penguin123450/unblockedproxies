@@ -3,7 +3,7 @@ Some unblocker proxies.
 
 **https://helo99.herokuapp.com**
 
-**https://https://unblockedproxy.herokuapp.com**
+**https://unblockedproxy.herokuapp.com**
 
 **https://unblocker555.herokuapp.com**
 
